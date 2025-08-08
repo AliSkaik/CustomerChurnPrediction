@@ -17,10 +17,10 @@ Features
 ---
 
  Run locally:
-
+```
    pip install -r requirements.txt
    python -m streamlit run main.py --server.port 8502
-
+```
 ---
 
  Dataset
